@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(.venv/Scripts/python:*)",
+      "Bash(py:*)",
+      "Bash(winget install:*)",
+      "Bash(C:\\\\Users\\\\HI\\\\Miniconda3\\\\condabin\\\\conda.bat:*)",
+      "Bash(cmd:*)",
+      "Bash(powershell:*)"
+    ]
+  }
+}
