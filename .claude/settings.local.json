@@ -8,7 +8,8 @@
       "Bash(winget install:*)",
       "Bash(C:\\\\Users\\\\HI\\\\Miniconda3\\\\condabin\\\\conda.bat:*)",
       "Bash(cmd:*)",
-      "Bash(powershell:*)"
+      "Bash(powershell:*)",
+      "Bash(grep -i 'statDate\\\\|code\\\\|pubDate\\\\|^id$\\\\|\\\\.1')"
     ]
   }
 }
